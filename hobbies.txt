@@ -1,0 +1,9 @@
+Favorite Outdoor Hobbies:
+  - Hiking
+  - Camping
+  - Skiing
+
+Favorite Indoor Hobbies:
+  - Reading
+  - Baking
+  - Cooking
